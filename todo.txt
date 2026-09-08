@@ -1,3 +1,4 @@
 - Learn Git basics
 - Set up my first repository
 - Add some notes
+- revise the notes
